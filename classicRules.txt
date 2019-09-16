@@ -1,0 +1,21 @@
+							   On your turn you roll only 3 die.
+					    The Green dice are the easiest. Yellow are medium. Red are the hardest.
+							     The dice have three symbols:
+
+		Brain: Each brain is 1 point towards your overall score
+
+		Footprints: If you choose to roll again, you will re-roll these dice. 
+			    Along with enough new ones to bring the total to three.
+
+		Shotgun: If you roll three shotguns, your turn is over. 
+			 Otherwise, you can choose to stop and score, or continue.
+
+		Green dice contain: 3 BRAINS, 2 FEET, 1 SHOTGUN
+		Yellow dice contain: 2 BRAINS, 2 FEET, 2 SHOTGUNS
+		Red dice contain: 1 BRAIN, 2 FEET, 3 SHOTGUNS
+
+			   If you decide to stop on your turn, each brain scores you 1 point. It's now the next player's turn.
+			      Keep repeating until someone reaches 13 Brains. Once 13 brains are scored, finish the round. 
+
+					Whoever has the most Brains at the end of that round is the winner. 
+					     If there is a tie, only the leaders play a tiebreaker round.

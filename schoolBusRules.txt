@@ -1,0 +1,23 @@
+					You will always start your turn by rolling 3 regular dice. 
+			After that, any time you draw dice, you may take the School Bus instead of drawing one regular die. 
+					    The School bus has 12 faces containing the following:
+
+	    Brain: The Brain has its normal meaning.
+
+	    Shotgun: The Shotgun has its normal meaning.
+
+	    Brain/Shotgun: Sometimes you'll get both Brains and Shotguns.
+
+	    Stop: Your turn is over. If you're up to three Shotguns, you score nothing. 
+		  Otherwise, score the Brains you have.
+
+	    Yield: All Shotguns on this roll become Feet.
+
+	    Dead End: All Feet on this roll become Brains.
+
+	    Run Over: Lose one rolled Brain. You can't roll the School Bus die any more on this turn.
+
+			   While you are on the school bus you have two choices:
+						
+		     (1) Get off. Reroll Feet if you have any, plus enough new dice to total three but you can't roll the bus any more this turn. 
+		     (2) Or stay on the bus. The Feet are discarded. Draw two new dice to go with the School Bus die, and roll again.
